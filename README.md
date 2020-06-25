@@ -1,3 +1,3 @@
 # eTutor_photosManager
 
-A project for manipulating photos
+A server that can CRUD imagines for E-Tutor
